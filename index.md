@@ -13,7 +13,11 @@ Mais tout d'abord, un grand remerciment à `GbasireYTP` pour le logo du bot et �
 
 --------------------------
 
-## Test
+
+**Passons à présent au sujet qui vous a probablement amené ici: la documentation à propos de ce que ce bot peut faire. (spoiler: il peut faire beaucoup de choses ;)**
+
+
+## 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
