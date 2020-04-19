@@ -5,9 +5,13 @@
 Vous pourrez trouver ici toute l'aide nécessaire à l'utilisation du PunkAbot.
 
 Tout d'abord, voyons ensemble ce qu'est le PunkAbot.
-Initialement créé en 2019 pour la [PunkAstik](https://discord.gg/Punkastik), le PunkAbot est un bot Discord qui s'est rapidement amélioré du fait de l'activité de son développeur principal [Onelots](https://github.com/Oneloutre) et de l'aide dont il a bénéficié tout au long du développement. Il passa donc rapidement du stade de projet à un bot fonctionnel, ayant plusieurs utilités que nous découvrirons plus bas.
+Initialement créé en 2019 pour la [PunkAstik](https://discord.gg/Punkastik), le PunkAbot est un bot Discord qui s'est rapidement amélioré du fait de l'activité de son développeur principal [Onelots](https://github.com/Oneloutre) et de l'aide dont il a bénéficié tout au long du développement. Il passa donc rapidement du stade de projet à un bot fonctionnel, ayant plusieurs utilités que nous découvrirons un peu plus bas.
 
-Un grand remerciment à GbasireYTP pour le logo du bot et à Vintagix pour son aide précieuse lors du développement. :smile:
+--------------------------
+
+Mais tout d'abord, un grand remerciment à GbasireYTP pour le logo du bot et à Vintagix pour son aide précieuse lors du développement, ainsi qu'à Natice pour m'avoir demandé à l'origine de créer ce bot et sans qui il n'existerait pas.
+
+--------------------------
 
 ## Test
 
