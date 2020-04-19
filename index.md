@@ -9,7 +9,7 @@ Initialement créé en 2019 pour la [PunkAstik](https://discord.gg/Punkastik), l
 
 --------------------------
 
-Mais tout d'abord, un grand remerciment à GbasireYTP pour le logo du bot et à Vintagix pour son aide précieuse lors du développement, ainsi qu'à Natice pour m'avoir demandé à l'origine de créer ce bot et sans qui il n'existerait pas.
+Mais tout d'abord, un grand remerciment à `GbasireYTP` pour le logo du bot et à `Vintagix` pour son aide précieuse lors du développement, ainsi qu'à `Natice` pour m'avoir demandé à l'origine de créer ce bot et sans qui il n'existerait pas.
 
 --------------------------
 
