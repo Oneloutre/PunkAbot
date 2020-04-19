@@ -21,7 +21,7 @@ Mais tout d'abord, un grand remerciment à `GbasireYTP` pour le logo du bot et �
 
 Lorsque le Bot a rejoint votre serveur, il nécessite quelques réglages qui seront propres à votre serveur! 
 Ainsi, lorsque le bot aura rejoint votre serveur discord, éxecutez la commande 
-```js
+```css
 /start
 ```
 dans le channel de votre choix. Celà aura pour effet de vous mettre un petit message bien sympa vous expliquant les différents paramétrages disponibles pour certains, mais nécessaires pour d'autres tel que définir le préfix voulu, etc.
