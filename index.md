@@ -3,8 +3,8 @@
 
 Vous pourrez trouver ici toute l'aide nécessaire à l'utilisation du PunkAbot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Tout d'abord, voyons ensemble ce qu'est le PunkAbot.
+Initialement créé en 2019 pour la [PunkAstik](https://discord.gg/Punkastik), ce bot s'est rapidement amélioré du fait de l'activité de son développeur principal [Onelots](https://github.com/Oneloutre)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
