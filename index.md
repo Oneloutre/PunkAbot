@@ -14,10 +14,10 @@ Mais tout d'abord, un grand remerciment à `GbasireYTP` pour le logo du bot et �
 --------------------------
 
 
-[![](https://ci.codemc.org/buildStatus/icon?job=Mohist-Community%2FMohist-1.12.2)](https://ci.codemc.org/job/Mohist-Community/job/Mohist-1.12.2/) **Passons à présent au sujet qui vous a probablement amené ici: la documentation à propos de ce que ce bot peut faire. (spoiler: il peut faire beaucoup de choses ;)**
+**Passons à présent au sujet qui vous a probablement amené ici: la documentation à propos de ce que ce bot peut faire. (spoiler: il peut faire beaucoup de choses ;)**
 
 
-## 
+##                                BIEN DÉMARRER
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
