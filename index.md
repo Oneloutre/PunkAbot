@@ -17,8 +17,8 @@ Mais tout d'abord, un grand remerciment à `GbasireYTP` pour le logo du bot et �
 **Passons à présent au sujet qui vous a probablement amené ici: la documentation à propos de ce que ce bot peut faire. (spoiler: il peut faire beaucoup de choses ;)**
 
 -------------------------------------
-
-
+  
+  
 
 ## COMMENT BIEN DÉMARRER:
 
@@ -29,24 +29,24 @@ Ainsi, lorsque le bot aura rejoint votre serveur discord, éxecutez la commande
 ```
 dans le channel de votre choix. Celà aura pour effet de vous mettre un petit message bien sympa vous expliquant les différents paramétrages disponibles pour certains, mais nécessaires pour d'autres tel que définir le préfix voulu, etc :).
 
-
+  
 
 ## C'est prêt ? Alors allons-y !
 
 __Attention ! je n'ai aucun moyen de connaître le préfix que vous avez donné à votre bot, donc tout au long de cette page j'emploierai le sigle **[!]** comme préfix, mais rien ne vous empêche d'en mettre un autre !__
 
-
+  
 Tout d'avord, effectuez la commande 
 ```diff
 !help
 ```
 pour en apprendre un peu plus sur ce que peut faire le bot et les différentes catégories qui le composent.
 
+  
 
+  
 
-
-
-
+  
 
 
 
