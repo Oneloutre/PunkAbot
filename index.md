@@ -1,5 +1,5 @@
 
-## Bienvenue sur la page d'aide du PunkAbot
+# Bienvenue sur la page d'aide du PunkAbot
 
 Vous pourrez trouver ici toute l'aide nécessaire à l'utilisation du PunkAbot.
 
