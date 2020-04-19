@@ -38,7 +38,7 @@ __Attention ! je n'ai aucun moyen de connaître le préfix que vous avez donné 
   
 Tout d'avord, effectuez la commande 
 ```diff
-!help
+-!help
 ```
 pour en apprendre un peu plus sur ce que peut faire le bot et les différentes catégories qui le composent.
 
