@@ -17,9 +17,14 @@ Mais tout d'abord, un grand remerciment à `GbasireYTP` pour le logo du bot et �
 **Passons à présent au sujet qui vous a probablement amené ici: la documentation à propos de ce que ce bot peut faire. (spoiler: il peut faire beaucoup de choses ;)**
 
 
-##                                BIEN DÉMARRER
+## COMMENT BIEN DÉMARRER:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lorsque le Bot a rejoint votre serveur, il nécessite quelques réglages qui seront propres à votre serveur! 
+Ainsi, lorsque le bot aura rejoint votre serveur discord, éxecutez la commande 
+```js
+/start
+```
+dans le channel de votre choix. Celà aura pour effet de vous mettre un petit message bien sympa vous expliquant les différents paramétrages disponibles pour certains, mais nécessaires pour d'autres tel que définir le préfix voulu, etc.
 
 ```markdown
 Syntax highlighted code block
