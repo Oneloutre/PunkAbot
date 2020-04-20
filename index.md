@@ -50,5 +50,5 @@ pour en apprendre un peu plus sur ce que peut faire le bot et les différentes c
 
 
 
-#### Support ou contact
+### Support ou contact
 Vous avez des problèmes avec le bot ? N'hésitez pas à venir sur le discord de la PunkAstik en mentionnant Onelots, ou alors à venire sur le discord du PunkAbot !
