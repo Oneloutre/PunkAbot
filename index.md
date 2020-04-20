@@ -20,7 +20,7 @@ Mais tout d'abord, un grand remerciment à `GbasireYTP` pour le logo du bot et �
   
   
 
-## COMMENT BIEN DÉMARRER:
+# COMMENT BIEN DÉMARRER:
 
 Lorsque le Bot a rejoint votre serveur, il nécessite quelques réglages qui seront propres à votre serveur! 
 Ainsi, lorsque le bot aura rejoint votre serveur discord, éxecutez la commande 
