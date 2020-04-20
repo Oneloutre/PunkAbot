@@ -41,8 +41,9 @@ Tout d'avord, effectuez la commande
 -!help
 ```
 pour en apprendre un peu plus sur ce que peut faire le bot et les différentes catégories qui le composent.
+Une fois exécutée, celle-ci vous donnera un petit aperçu des possibilités du bot.
 
-  
+
 
   
 
