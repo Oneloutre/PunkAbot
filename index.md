@@ -33,7 +33,7 @@ dans le channel de votre choix. Celà aura pour effet de vous mettre un petit me
 
 ## C'est prêt ? Alors allons-y !
 
-__Attention ! je n'ai aucun moyen de connaître le préfix que vous avez donné à votre bot, donc tout au long de cette page j'emploierai le sigle **[!]** comme préfix, mais rien ne vous empêche d'en mettre un autre !__
+__Attention ! je n'ai aucun moyen de connaître le préfix que vous avez donné à votre bot, donc tout au long de cette page j'emploierai le sigle [!] comme préfix, mais rien ne vous empêche d'en mettre un autre !__
 
   
 Tout d'avord, effectuez la commande 
@@ -50,6 +50,5 @@ pour en apprendre un peu plus sur ce que peut faire le bot et les différentes c
 
 
 
-### Support ou contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Support ou contact
+Vous avez des problèmes avec le bot ? N'hésitez pas à venir sur le discord de la PunkAstik en mentionnant Onelots, ou alors à venire sur le discord du PunkAbot !
