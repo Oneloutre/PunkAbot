@@ -44,7 +44,9 @@ Tout d'avord, effectuez la commande
 pour en apprendre un peu plus sur ce que peut faire le bot et les différentes catégories qui le composent.
 Une fois exécutée, celle-ci vous donnera un petit aperçu des possibilités du bot.
 
+# [help modération](https://oneloutre.github.io/PunkAbot/hfun)
 
+Vous retrouverez ici toutes les Infos relatives à la modération de votre serveur :joy:
 
   
 
